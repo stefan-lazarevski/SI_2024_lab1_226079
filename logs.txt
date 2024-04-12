@@ -1,0 +1,29 @@
+commit e73336bbed61bf4ad2a4c12a0efb5f22446fa070
+Author: stefan-lazarevski <lazarevski055@gmail.com>
+Date:   Fri Apr 12 15:20:46 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1931946010a430554c807e1a5d82f223e97bf0c2
+Author: stefan-lazarevski <lazarevski055@gmail.com>
+Date:   Fri Apr 12 15:23:32 2024 +0200
+
+    Call method filterOddLengthStrings
+
+commit 022416274e0caf59ea6001b5b5563dffd4d70659
+Author: stefan-lazarevski <lazarevski055@gmail.com>
+Date:   Fri Apr 12 15:18:32 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 140bcd3fac7a0e268497c9828a0bd0d6c021eac9
+Author: stefan-lazarevski <lazarevski055@gmail.com>
+Date:   Fri Apr 12 15:11:13 2024 +0200
+
+    Add starter code
+
+commit d2f6dfefac2700358e70d91a1482f2f407259002
+Author: stefan-lazarevski <lazarevski055@gmail.com>
+Date:   Fri Apr 12 15:07:56 2024 +0200
+
+    Initial commit
